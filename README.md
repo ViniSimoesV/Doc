@@ -5,6 +5,6 @@
 
 Organização
 
-.origin
-  |____ / microsserviços
-                 |________ Resenha 'Microservice' Fowler, 2014
+.origin </br>
+--|____  ./microservices </br>
+--------------|________ Resenha 'Microservice' Fowler, 2014 </br>
